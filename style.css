@@ -1,0 +1,352 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#katta{
+    background-image:url("https://bmw.scene7.com/is/image/BMW/DI23_000134611_snow_1_sRGBIEC6196621:16to9?fmt=webp&wid=2560&hei=1440");
+    height: 1070px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#ortacha{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#ortacha a{
+        text-decoration: none;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: white;
+        font-size: 20px;
+        padding-left: 30px;
+        padding-bottom: 100px;
+}
+#kichik{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    margin-right: 500px;
+}
+
+#bmwrasm{
+    width: 50px;
+}
+#profil{
+    color: white;
+    font-size: 28px;
+}
+#locatcion{
+    color: white;
+    font-size: 28px;
+    margin: 0 10px;
+}
+#poisk{
+    color: white;
+    font-size: 28px;
+}
+.matn{
+    color: white;
+    font-size: 20px;
+    padding-left: 100px;
+    padding-top: 15px;
+}
+.sarl{
+    color: white;
+    font-size: 50px;
+    padding-top: 630px;
+    font-family: Georgia, serif;
+    padding-left: 240px;
+    font-weight: 100;
+}
+#matn{
+    color: white;
+    font-size: 20px;
+    padding-left: 240px;
+}
+#divhov{
+    margin-left: 240px;
+    margin-top: 60px;
+}
+.hover{
+    background-color: rgb(44, 118, 202);
+    padding-left: 65px;
+    padding-right: 65px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    transition: 0.5s;
+    font-weight: 600;
+}
+
+
+.hover:hover{
+    background-color: rgb(33, 90, 155);
+}
+#sarl2 p{
+    color: grey;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 50px;
+
+}
+#sarl2 h1{
+    color: black;
+    font-size: 80px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.sarl p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 70px;
+}
+#sarl2 h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 70px;
+}
+
+#hover1{
+    background-color: rgb(255, 255, 255);
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    border: solid;
+    border-radius: 5px;
+}
+#hover1:hover{
+    border-color: white;
+}
+
+#hover2{
+    background-color: rgb(255, 255, 255);
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    border: solid;
+    border-radius: 5px;
+}
+#hover2:hover{
+    border-color: white;
+}
+
+#hover3{
+    background-color: rgb(255, 255, 255);
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    border: solid;
+    border-radius: 5px;
+}
+#hover3:hover{
+   border-color: white;
+}
+
+
+#responsivegrid.aem-GridColumn {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+#img{
+    background-image: url(https://bmw.scene7.com/is/image/BMW/UC_KV:3to1?fmt=webp&wid=2560&hei=853);
+    height: 600px;
+    background-position: center;
+}
+
+#img h1{
+    color: white;
+    font-size: 40px;
+    margin-left: 100px;
+    padding-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#img p{
+    padding-top: 100px;
+    margin-left: 100px;
+    color: white;
+    font-size: 15px;
+}
+
+#matn3{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.hover4{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    border: solid;
+    border-color: white;
+    border-radius: 5px;
+}
+
+.hover4:hover{
+    border-style: none;
+}
+
+#avtorasm{
+    width: 400px;
+    text-align: center;
+    margin-left: 120px;
+    font-size: 30px;
+}
+
+.bigavto{
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+}
+
+.diver4{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.diver4 img{
+    width: 870px;
+    padding-left: 60px;
+}
+
+#diverp4{
+    padding-top: 30px;
+    color: gray;
+    font-size: 20px;
+}
+
+#diver4 h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 70px;
+}
+
+#diver42{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+.diver421{
+    padding-top: 70px;
+}
+
+
+
+
+.hover5{
+    background-color: rgb(255, 255, 255);
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    border: solid;
+    border-radius: 5px;
+}
+
+.hover5:hover{
+    border-style: none;
+}
+
+#abcd{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    background-color: rgba(128, 128, 128, 0.103);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 250px;
+}
+
+#abcd p{
+    display: grid;
+    margin-left: 60px;
+    margin-top: 15px;
+    font-size: 15px;
+    color: rgb(99, 98, 98);
+}
+
+#abcd a{
+    display: grid;
+    margin-left: 60px;
+    color: rgb(80, 80, 80);
+    text-decoration: none;
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+#abcd a:hover{
+    color: black;
+}
+
+#abcd nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#youtobevk{
+    padding-top: 100px;
+    width: 20px;
+}
+
+.finish{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    padding-right: 250px;
+}
+
+.finish p{
+    display: grid;
+    margin-left: 60px;
+    margin-top: 15px;
+    font-size: 15px;
+    color: black;
+}
+
+.finish a{
+    display: grid;
+    margin-left: 60px;
+    color: black;
+    text-decoration: none;
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+.finish a:hover{
+    color: rgb(0, 110, 255);
+}
+
+.finish nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
